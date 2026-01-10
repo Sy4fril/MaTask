@@ -42,24 +42,25 @@ Aplikasi ini telah memenuhi seluruh kriteria kelulusan UAS:
 - [x] **RecyclerView:** List tugas yang responsif dengan dukungan fitur *Drag and Drop* untuk mengatur urutan.
 - [x] **Notification (AlarmManager):** Notifikasi otomatis berbunyi sejak H-1 deadline hingga waktu habis, lengkap dengan tombol aksi langsung (Ditandai Selesai / Jadwal Ulang).
 
-
-
 ## 📸 Screenshots
-Berikut adalah dokumentasi tampilan aplikasi berdasarkan isi folder `screenshots`:
+Berikut adalah dokumentasi tampilan aplikasi:
 
-| Gambar | Deskripsi |
-|:-------------------------------:|:--------------------------|
-| ![Login](screenshots/login.png) | Halaman Login |
-| ![Dashboard](screenshots/dashboard.png) | Dashboard / Beranda |
-| ![List Tugas](screenshots/listTugas.png) | Daftar Tugas |
-| ![Tambah Tugas](screenshots/addTugas.png) | Form Tambah Tugas |
-| ![Tambah Kategori](screenshots/addKategori.png) | Form Tambah Kategori |
-| ![Detail Tugas](screenshots/detailTugas.png) | Detail Tugas |
-| ![Notifikasi Pengingat](screenshots/notifPengingatDeadline.png) | Notifikasi Pengingat Deadline |
-| ![Profil](screenshots/profile.png) | Halaman Profil |
-| ![Tentang](screenshots/about.png) | Tentang Aplikasi |
+|        Login         |        Dashboard (Home)        |     List Tugas     |
+|:-------------------:|:------------------------------:|:------------------:|
+| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) | ![List Tugas](screenshots/listTugas.png) |
+| *(Halaman Login)*   | *(Beranda/Daftar Tugas)*       | *(Daftar Tugas)*   |
 
-*(Catatan: Semua gambar di atas diambil dari folder 'screenshots')*
+|    Tambah Tugas     |   Tambah Kategori   |     Detail Tugas     |
+|:-------------------:|:-------------------:|:--------------------:|
+| ![Tambah Tugas](screenshots/addTugas.png) | ![Tambah Kategori](screenshots/addKategori.png) | ![Detail Tugas](screenshots/detailTugas.png) |
+| *(Form Tambah)*     | *(Form Kategori)*   | *(Detail & Edit)*    |
+
+| Notifikasi Pengingat |      Profil         |      Tentang         |
+|:-------------------:|:-------------------:|:--------------------:|
+| ![Notif](screenshots/notifPengingatDeadline.png) | ![Profil](screenshots/profile.png) | ![Tentang](screenshots/about.png) |
+| *(Pengingat Deadline)* | *(Halaman Profil)* | *(Tentang Aplikasi)* |
+
+*(Catatan: Semua gambar tersimpan di folder 'screenshots')*
 
 ## 🚀 Cara Menjalankan Aplikasi
 1.  **Clone** repository ini ke laptop Anda:
