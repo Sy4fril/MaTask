@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:text="Urutkan menurut"
+        android:textAppearance="@style/TextAppearance.MaterialComponents.Headline6" />
+
+    <TextView
+        android:id="@+id/sortByMyOrder"
+        style="@style/SortBottomSheetItem"
+        android:drawableStart="@drawable/ic_sort"
+        android:text="Urutan yang saya buat" />
+
+    <TextView
+        android:id="@+id/sortByDate"
+        style="@style/SortBottomSheetItem"
+        android:drawableStart="@drawable/ic_deadline"
+        android:text="Deadline terdekat" />
+
+    <TextView
+        android:id="@+id/sortByRecentlyStarred"
+        style="@style/SortBottomSheetItem"
+        android:drawableStart="@drawable/ic_star"
+        android:text="Baru saja dibintangi" />
+
+    <TextView
+        android:id="@+id/sortByAlphabetical"
+        style="@style/SortBottomSheetItem"
+        android:drawableStart="@drawable/ic_sort_by_alpha"
+        android:text="Abjad" />
+
+</LinearLayout>

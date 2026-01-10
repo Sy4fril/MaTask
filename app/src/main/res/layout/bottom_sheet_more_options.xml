@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp">
+
+    <TextView
+        android:id="@+id/renameList"
+        style="@style/SortBottomSheetItem"
+        android:text="Ganti nama daftar" />
+
+    <TextView
+        android:id="@+id/deleteList"
+        style="@style/SortBottomSheetItem"
+        android:text="Hapus daftar" />
+
+    <TextView
+        android:id="@+id/deleteCompletedTasks"
+        style="@style/SortBottomSheetItem"
+        android:text="Hapus semua tugas yang telah selesai" />
+
+</LinearLayout>

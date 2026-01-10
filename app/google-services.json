@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "839958121068",
+    "project_id": "matask-b6b82",
+    "storage_bucket": "matask-b6b82.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839958121068:android:0f41b0e4fcd4e631722649",
+        "android_client_info": {
+          "package_name": "com.tugasuas.matask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839958121068-7pf9jhpop333a9247vja9e7q28b2nfdm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tugasuas.matask",
+            "certificate_hash": "73697b5ceac5d98eb746e18faf6151befc367bd9"
+          }
+        },
+        {
+          "client_id": "839958121068-55v4jb8v08qm2lr8n1qbkr076p8gj9e3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd6kVqZ2VGcXkoCSKSDjZ5wZHdRhUS3H8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839958121068-55v4jb8v08qm2lr8n1qbkr076p8gj9e3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

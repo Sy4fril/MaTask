@@ -1,0 +1,35 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Pink Circle with Check -->
+    <path
+        android:pathData="M40,30 A10,10 0 1,1 20,30 A10,10 0 0,1 40,30"
+        android:fillColor="#FFC0CB" />
+    <path
+        android:pathData="M25,30 L28,33 L35,26"
+        android:strokeColor="#000000"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round" />
+
+    <!-- Green Bar -->
+    <path
+        android:pathData="M50,25 h40 v10 h-40 Z"
+        android:fillColor="#90EE90" />
+
+    <!-- Yellow Circle -->
+    <path
+        android:pathData="M45,70 A5,5 0 1,1 35,70 A5,5 0 0,1 45,70"
+        android:fillColor="#FFD700" />
+
+    <!-- Blue Wavy Papers -->
+    <path
+        android:pathData="M30,100 h80 v2 h-80 Z"
+        android:fillColor="#ADD8E6" />
+    <path
+        android:pathData="M30,90 Q50,70 70,90 T110,90 L110,60 Q90,80 70,60 T30,60 Z"
+        android:fillColor="#ADD8E6" />
+
+</vector>
