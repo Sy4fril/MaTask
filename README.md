@@ -27,20 +27,21 @@ Proyek ini dikembangkan untuk memenuhi Tugas Besar / Ujian Akhir Semester (UAS) 
 Aplikasi ini telah memenuhi seluruh kriteria kelulusan UAS:
 
 ### 1. Otentikasi User (Firebase Auth)
-- [x] Login & Register aman menggunakan Email.
-- [x] Auto-login (sesi tersimpan) sehingga user tidak perlu login berulang kali.
+✔️ Login & Register aman menggunakan Email.
+✔️ Auto-login (sesi tersimpan) sehingga user tidak perlu login berulang kali.
+
 
 ### 2. Database & CRUD (Create, Read, Update, Delete)
-- [x] **Create (Input):** Menambah tugas baru dengan batas waktu, deskripsi, dan kategori melalui Add Task BottomSheet.
-- [x] **Read (Tampil):** Menampilkan daftar tugas berdasarkan kategori, daftar Favorit, dan tab khusus tugas **Lewat Waktu (Overdue)**.
-- [x] **Update (Edit):** Mengubah judul, deskripsi, status selesai, atau memindahkan tugas antar kategori.
-- [x] **Delete (Hapus):** Menghapus tugas secara permanen dari database dengan dialog konfirmasi.
+✔️ **Create (Input):** Menambah tugas baru dengan batas waktu, deskripsi, dan kategori melalui Add Task BottomSheet.
+✔️ **Read (Tampil):** Menampilkan daftar tugas berdasarkan kategori, daftar Favorit, dan tab khusus tugas **Lewat Waktu (Overdue)**.
+✔️ **Update (Edit):** Mengubah judul, deskripsi, status selesai, atau memindahkan tugas antar kategori.
+✔️ **Delete (Hapus):** Menghapus tugas secara permanen dari database dengan dialog konfirmasi.
 
 ### 3. Komponen Android
-- [x] **Fragment:** Menggunakan Fragment untuk menampilkan daftar tugas pada setiap kategori (ViewPager2 + TabLayout).
-- [x] **Intent:** Perpindahan antar halaman (Splash -> Login -> Home -> Detail).
-- [x] **RecyclerView:** List tugas yang responsif dengan dukungan fitur *Drag and Drop* untuk mengatur urutan.
-- [x] **Notification (AlarmManager):** Notifikasi otomatis berbunyi sejak H-1 deadline hingga waktu habis, lengkap dengan tombol aksi langsung (Ditandai Selesai / Jadwal Ulang).
+✔️ **Fragment:** Menggunakan Fragment untuk menampilkan daftar tugas pada setiap kategori (ViewPager2 + TabLayout).
+✔️ **Intent:** Perpindahan antar halaman (Splash -> Login -> Home -> Detail).
+✔️ **RecyclerView:** List tugas yang responsif dengan dukungan fitur *Drag and Drop* untuk mengatur urutan.
+✔️ **Notification (AlarmManager):** Notifikasi otomatis berbunyi sejak H-1 deadline hingga waktu habis, lengkap dengan tombol aksi langsung (Ditandai Selesai / Jadwal Ulang).
 
 ## 📸 Screenshots
 Berikut adalah dokumentasi tampilan aplikasi:
@@ -65,7 +66,7 @@ Berikut adalah dokumentasi tampilan aplikasi:
 ## 🚀 Cara Menjalankan Aplikasi
 1.  **Clone** repository ini ke laptop Anda:
     ```bash
-    git clone 
+    git clone https://github.com/Sy4fril/MaTask.git
     ```
 2.  Buka project di **Android Studio**.
 3.  Pastikan file `google-services.json` (Firebase) sudah terhubung.
