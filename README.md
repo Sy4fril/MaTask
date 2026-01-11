@@ -5,14 +5,14 @@ Aplikasi Android berbasis Kotlin yang dirancang untuk membantu pengguna mencatat
 Proyek ini dikembangkan untuk memenuhi Tugas Besar / Ujian Akhir Semester (UAS) Mata Kuliah Aplikasi Mobile 2.
 
 ## 👤 Identitas Pengembang
-* **Nama 1:** M. Syafril Syamroh (2304411273)
-* **Nama 2:** Kadek Nikita Dinda (2304411710)
+* **Nama 1:** M. Syafril Syamroh (2304411273) | 5K RPL 3
+* **Nama 2:** Kadek Nikita Dinda (2304411710) | 5K RPL 3
 * **Prodi:** Informatika - Universitas Cokroaminoto Palopo
 * **Tahun:** 2026
 
 ## 📱 Deskripsi Aplikasi
 * **Nama Aplikasi:** MaTask
-* **Aplikasi Rujukan:** Google Tasks / Modern To-Do List
+* **Aplikasi Rujukan:** [Google Tasks](https://play.google.com/store/apps/details?id=com.google.android.apps.tasks&pcampaignid=web_share)
 * **MaTask** adalah aplikasi manajemen tugas yang memungkinkan pengguna untuk mengelola daftar pekerjaan mereka dalam berbagai kategori. Aplikasi ini mendukung fitur unggulan seperti **Offline Persistence** (tetap bisa input saat tidak ada internet) dan **Real-time Sync** (data otomatis sama di semua perangkat dengan satu akun). Selain itu, terdapat sistem pengingat cerdas yang akan memberi notifikasi saat tugas mendekati batas waktu (H-1 hingga detik deadline).
 
 ## 🛠️ Teknologi & Tools
